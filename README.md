@@ -1,6 +1,6 @@
 # spatiotemporal-traffic-model
 
-A temtative reproduction of the spatiotemporal prediction model presented in: 
+A tentative reproduction of the spatiotemporal prediction model presented in: 
 
 > Yu, H. et al. "Spatiotemporal Recurrent Convolutional Networks for Traffic Prediction in Transportation Networks." Sensors 17 (2017)
 
